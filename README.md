@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Möbius Educational Solutions](https://github.com/Mobius-Solutions)
-- 👯 I’m looking to collaborate on [Oxylearn](https://www.oxylearn.live/)
 - 🤔 I’m looking for help with [Möbius Educational Solutions](https://github.com/Mobius-Solutions)
 - 💬 Ask me about 
   - Javascript
