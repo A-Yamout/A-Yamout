@@ -9,6 +9,5 @@
   - React
   - CSS
   - HTML
-- 📫 How to reach me: A-Yamout#1208 on Discord
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: The Lego Group began in the workshop of Ole Kirk Christiansen (born 7 April 1891), a carpenter from Billund, Denmark, who began making wooden toys in 1932. In 1934, his company came to be called "Lego", from the Danish phrase leg godt, which means "play well".
